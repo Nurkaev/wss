@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WSS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#0560FA</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.WSS" parent="Base.Theme.WSS" />
+</resources>
